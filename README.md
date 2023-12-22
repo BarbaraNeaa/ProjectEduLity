@@ -1,7 +1,10 @@
 README - EduLity Installation Guide
 
 Halooo!
-Selamat datang di EduLity! Berikut adalah panduan instalasi yang (semoga) bisa membantu Bapak / teman-teman menjalankan aplikasi EduLity.
+Selamat datang di EduLity! 
+EduLity adalah aplikasi yang diciptakan oleh Asteria Group yang beranggotakan Barbara Neanake dan Christella Jesslyn.
+
+Berikut adalah panduan instalasi yang (semoga) bisa membantu Bapak / teman-teman menjalankan aplikasi EduLity.
 
 Persyaratan Sistem:
 - Sistem Operasi: Windows 10, macOS, atau Linux
