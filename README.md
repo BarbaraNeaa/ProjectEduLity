@@ -46,6 +46,10 @@ CATATAN TAMBAHAN
 - Pastikan firewall Anda memperbolehkan koneksi ke PostgreSQL.
 - Jika ada masalah, periksa log aplikasi untuk mendapatkan informasi lebih lanjut.
 
+REFERENSI TAMBAHAN
+Link Presentasi Penjelasan Program : https://youtu.be/T75qnlH7v1I?si=seBdnGBHvdGTFI-6
+Link EduLity Report Book : https://drive.google.com/file/d/1XpjvVAJyRsdiE_IvVeNLOjC4-2tsyZcR/view?usp=sharing
+
 Selamat menikmati pengalaman menggunakan EduLity! 
 
 Silakan menghubungi Barbara apabila teman-teman / Bapak memiliki pertanyaan dalam bentuk apapun.
